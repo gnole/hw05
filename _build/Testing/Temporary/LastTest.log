@@ -1,10 +1,10 @@
-Start testing: Jun 08 01:21 MSK
+Start testing: Jun 08 01:27 MSK
 ----------------------------------------------------------
 1/1 Testing: check
 1/1 Test: check
 Command: "/home/oleg/TIMP/hw05/_build/check"
 Directory: /home/oleg/TIMP/hw05/_build
-"check" start time: Jun 08 01:21 MSK
+"check" start time: Jun 08 01:27 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /home/oleg/TIMP/hw05/third-party/gtest/googletest/src/gtest_main.cc
@@ -24,23 +24,23 @@ Running main() from /home/oleg/TIMP/hw05/third-party/gtest/googletest/src/gtest_
 1 send to 2 $500
 Balance 1 is 499
 Balance 2 is 600
-[       OK ] Transaction.MakeTransaction (0 ms)
+[       OK ] Transaction.MakeTransaction (1 ms)
 [ RUN      ] Transaction.Fee
 3 send to 4 $500
 Balance 3 is 497
 Balance 4 is 600
 [       OK ] Transaction.Fee (0 ms)
-[----------] 2 tests from Transaction (0 ms total)
+[----------] 2 tests from Transaction (1 ms total)
 
 [----------] Global test environment tear-down
-[==========] 5 tests from 2 test suites ran. (0 ms total)
+[==========] 5 tests from 2 test suites ran. (1 ms total)
 [  PASSED  ] 5 tests.
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"check" end time: Jun 08 01:21 MSK
+"check" end time: Jun 08 01:27 MSK
 "check" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Jun 08 01:21 MSK
+End testing: Jun 08 01:27 MSK
