@@ -158,8 +158,8 @@ third-party/gtest/googletest/clean: third-party/gtest/googletest/CMakeFiles/gtes
 
 # All Build rule for target.
 CMakeFiles/check.dir/all: third-party/gtest/googlemock/CMakeFiles/gmock_main.dir/all
-CMakeFiles/check.dir/all: CMakeFiles/transaction.dir/all
 CMakeFiles/check.dir/all: third-party/gtest/googlemock/CMakeFiles/gmock.dir/all
+CMakeFiles/check.dir/all: CMakeFiles/transaction.dir/all
 CMakeFiles/check.dir/all: CMakeFiles/account.dir/all
 CMakeFiles/check.dir/all: third-party/gtest/googletest/CMakeFiles/gtest_main.dir/all
 CMakeFiles/check.dir/all: third-party/gtest/googletest/CMakeFiles/gtest.dir/all
