@@ -101,9 +101,6 @@ EOF
 Создание тестов для класса `Transaction`  && применение mock-объектов
 ```sh
 % cat >> tests/test2.cpp <<EOF
-//
-// Created by Евгений Григорьев on 20.04.2020.
-//
 #include <Account.h>
 #include <Transaction.h>
 #include <gmock/gmock.h>
